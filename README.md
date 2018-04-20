@@ -1,2 +1,2 @@
-# xioxangBMS
-iOS app for Xiaoxang BMS
+# xioxiangBMS
+iOS app for Xiaoxiang BMS
