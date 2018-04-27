@@ -1,12 +1,12 @@
 # Table of Content
 
-* [General Xioxiang BMS](#Xioxiang BMS)
+* [General Xiaoxiang BMS](#Xiaoxiang BMS)
 * [FAQ](#FAQ)
 * [Release Notes iOS App](/releaseNotes.md)
 
 
 
-# Xioxiang BMS
+# Xiaoxiang BMS
 
 iOS app for Xiaoxiang BMS
 
