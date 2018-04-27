@@ -20,6 +20,7 @@ In the V1 only reading of values is supported. If people will like the app, I'm 
 - charts
 
 Sample screenshots:
+
 ![Xiaoxiang BMS iOS App device search](/images/iosScreenshots/XiaoxiangBMS_mainScreen.jpg)
 
 ![Xiaoxiang BMS iOS App connected bms](/images/iosScreenshots/XiaoxiangBMS_connectedBMS.jpg)
