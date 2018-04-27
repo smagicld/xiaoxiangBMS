@@ -1,4 +1,4 @@
-#Table of Content
+# Table of Content
 
 * [General Xioxiang BMS](#Xioxiang BMS)
 * [FAQ](#FAQ)
