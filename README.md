@@ -1,6 +1,6 @@
 # Table of Content
 
-* [General Xiaoxiang BMS](#Xiaoxiang BMS)
+* [General Xiaoxiang BMS](#Xiaoxiang-BMS)
 * [FAQ](#FAQ)
 * [Release Notes iOS App](/releaseNotes.md)
 
