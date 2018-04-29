@@ -4,7 +4,7 @@
 * [FAQ](#FAQ)
 * [Release Notes iOS App](/releaseNotes.md)
 * [Where to buy](#Where-to-buy)
-
+* [Sample projects](#Sample-projects)
 
 # Xiaoxiang BMS
 
@@ -47,10 +47,12 @@ Please create an issue on github. [Create Issue](https://github.com/smagicld/xia
 Please create an issue on github. [Create Issue](https://github.com/smagicld/xiaoxiangBMS/issues)
 
 # Where to buy
-
 The easiest way to get the Xiaoxiang BMS is to order it over Ali Express.
 Here some sellers: [Smart BMS](https://www.aliexpress.com/store/product/15S-30A-active-bms-2018-new-Li-ion-smart-bms-pcm-with-android-Bluetooth-app-UART/1821822_32855756437.html?spm=2114.12010608.0.0.73bb2c3dwMG3BK)
 
 Before you order, make sure you choose the right cell number and battery technology!
 
+# Sample projects
+Sample VoltBox (Battery Pack) with 1kW capacity, 24V and mppt solar charger. perfect for camping.
+[VoltBox Project link](http://www.deszynski.com/wp/camping-portable-1kw-24v-voltbox/)
 
