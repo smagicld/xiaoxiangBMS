@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.0.3 - 2018.04.30
+- Fixed crash on 32bit iOS devices
+
 ## v1.0.2 - 2018.04.27
 - Added search spinner on main screen to indicate if the app is searching for devices
 - Added status label on main screen to show if bluetooth is disabled or unsupported on the device.

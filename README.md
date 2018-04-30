@@ -37,8 +37,9 @@ It is because of the Developer fee of Apple. But 1 CHF is not even a half cup of
 not yet, this will come with V2.
 
 ## My BMS can not be found
-check if it is connected correctly. 
-Can you find it with another Bluetooth device?
+check if it is connected correctly.
+make sure no other application is currently using your bluetooth battery!
+can you find it with another Bluetooth device?
 
 ## I have found a bug
 Please create an issue on github. [Create Issue](https://github.com/smagicld/xiaoxiangBMS/issues)
