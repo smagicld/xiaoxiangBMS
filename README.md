@@ -8,7 +8,7 @@
 
 # Xiaoxiang BMS
 
-iOS app for Xiaoxiang BMS
+iOS app for Xiaoxiang BMS: [AppStore Link](https://itunes.apple.com/us/app/xiaoxiang-bms/id1375405426?mt=8&ign-mpt=uo%3D4)
 
 With Xiaoxiang BMS you can build simple Li-Ion or LiFePo4 battery packs. For camping, car, solar or e-bikes (see links below - my projects).
 
