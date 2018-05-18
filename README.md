@@ -1,5 +1,6 @@
 # Table of Content
 
+* [WiKi Page](https://github.com/smagicld/xiaoxiangBMS/wiki)
 * [General Xiaoxiang BMS](#Xiaoxiang-BMS)
 * [FAQ](#FAQ)
 * [Release Notes iOS App](/releaseNotes.md)
