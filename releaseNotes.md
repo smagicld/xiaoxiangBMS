@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.0.4 - 2018.05.19
+* Added support for older Xiaoxiang BMS bluetooth modules (< 2018)
+
+
 ## v1.0.3 - 2018.04.30
 * Fixed crash on 32bit iOS devices
 
