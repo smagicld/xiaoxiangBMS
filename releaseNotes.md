@@ -1,5 +1,10 @@
 # Release Notes
 
+## v1.0.5 - in progress
+* Demo Device switch status is now stored
+
+
+
 ## v1.0.4 - 2018.05.19
 * Added support for older Xiaoxiang BMS bluetooth modules (< 2018)
 
@@ -17,4 +22,4 @@
 
 
 ## v1.0.0 - 2018.04.21
-* Initial release for xiaoxiang BMS and bluetooth module from 2017
+* Initial release for Xiaoxiang BMS and bluetooth module from 2017
