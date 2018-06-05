@@ -5,9 +5,6 @@
 * Added BMS config screen (BMS Screen -> config button under the output arrow)
 * Added BMS name alias feature. Now you can rename the BMS (from "xiaoxiang BMS") as you want.
 
-### In Progress
-- Add custom alias name to Xiaoxiang BMS for easier identifying the device
-
 ## v1.0.4 - 2018.05.19
 * Added support for older Xiaoxiang BMS bluetooth modules (< 2018)
 
