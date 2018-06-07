@@ -1,7 +1,7 @@
 # Release Notes
 
-## v1.0.6 - in progress
-* Charging and discharging MOSFET On/Off over the app
+## v1.0.6 - 2018.06.08
+* Charging and discharging MOSFET On/Off over the app (BMS main screen)
 
 
 ## v1.0.5 - 2018.06.06
