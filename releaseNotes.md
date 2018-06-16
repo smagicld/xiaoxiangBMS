@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.0.7 - in progress
+* Config option to leave charging port on while battery (discharging port) is off
+
+
 ## v1.0.6 - 2018.06.08
 * Charging and discharging MOSFET On/Off over the app (BMS main screen)
 
@@ -7,7 +11,7 @@
 ## v1.0.5 - 2018.06.06
 * Demo Device switch status is now stored
 * Added BMS config screen (BMS Screen -> config button under the output arrow)
-* Added BMS name alias feature. Now you can rename the BMS (from "xiaoxiang BMS") as you want.
+* Added BMS name alias feature. Now you can rename the BMS (from "xiaoxiang BMS") as you want
 
 
 ## v1.0.4 - 2018.05.19
@@ -20,7 +24,7 @@
 
 ## v1.0.2 - 2018.04.27
 * Added search spinner on main screen to indicate if the app is searching for devices
-* Added status label on main screen to show if bluetooth is disabled or unsupported on the device.
+* Added status label on main screen to show if bluetooth is disabled or unsupported on the device
 * Cosmetic UI changes
 * Demo device: extended random data / refresh rate to 20 seconds
 * Improved bluetooth re-connection
