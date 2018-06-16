@@ -18,6 +18,7 @@ Xiaoxiang BMS can be easily extended with an bluetooth adapter. It makes possibl
 * monitor temperature
 * monitor battery voltage
 * monitor single cell voltage
+* check wheater cell is balanced or not
 * monitor charging and discharging current
 * monitor alarms
 
