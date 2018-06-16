@@ -13,7 +13,14 @@ iOS app for Xiaoxiang BMS: [AppStore Link](https://itunes.apple.com/us/app/xiaox
 
 With Xiaoxiang BMS you can build simple Li-Ion or LiFePo4 battery packs. For camping, car, solar or e-bikes (see links below - my projects).
 
-Xiaoxiang BMS can be easily extended with an bluetooth adapter. It makes possible to monitor temperature, voltage, single voltage cell and alarms on your smartphone.
+Xiaoxiang BMS can be easily extended with an bluetooth adapter. It makes possible to:
+* NEW: switch the battery on/off
+* monitor temperature
+* monitor battery voltage
+* monitor single cell voltage
+* check wheater cell is balanced or not
+* monitor charging and discharging current
+* monitor alarms
 
 In the V1 only reading of values is supported. If people will like the app, I'm ready to implement in V2 features like:
 - calibration
