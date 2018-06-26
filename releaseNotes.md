@@ -3,6 +3,7 @@
 ## v1.0.8 - in progress
 * Config screen for BMS current (Charge and Discharge) calibration.
 
+
 ## v1.0.7 - 2018.06.12
 * Config option to leave charging port on while battery (discharging port) is off
 * Coming back from config screen disabled refreshing of the BMS screen. fixed.
