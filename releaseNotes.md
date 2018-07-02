@@ -1,7 +1,8 @@
 # Release Notes
 
-## v1.0.8 - in progress
+## v1.0.8 - 2018.07.01
 * Config screen for BMS current (Charge and Discharge) calibration.
+* Config screen for BMS capacity settings
 
 
 ## v1.0.7 - 2018.06.12
