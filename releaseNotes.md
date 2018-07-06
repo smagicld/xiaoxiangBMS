@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.0.9 - 2018.07.06
+* Config screen: all capacity parameters now available
+* Config screen: progress bar while reading/writin eeprom
+
 ## v1.0.8 - 2018.07.01
 * Config screen for BMS current (Charge and Discharge) calibration.
 * Config screen for BMS capacity settings
