@@ -1,8 +1,19 @@
 # Release Notes
 
+## v1.0.10 - 2018.09.16
+* Config screen: option to enable/disable balancer
+* Config screen: option to enable/disable balancer only while charging
+* Config screen: balancer start voltage setting (define when balancer starts balancing)
+* Config screen: balancer cell delta voltage setting (balancer tries to balance until delta is below this value)
+* Config screen: Functional Configuration swiitches for: Switch, Scrl, Led EN, Led Num. See Xiaoxiang PC software for detailed description
+* Config screen: Improved read/write EEPROM. Now, if data packed is not received the read/write will be re-tried for 5 times 
+* Config screen: Keybord hides automatically if tapped outside edit box
+
+
 ## v1.0.9 - 2018.07.06
 * Config screen: all capacity parameters now available
 * Config screen: progress bar while reading/writin eeprom
+
 
 ## v1.0.8 - 2018.07.01
 * Config screen for BMS current (Charge and Discharge) calibration.
