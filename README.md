@@ -14,8 +14,9 @@ iOS app for Xiaoxiang / jiabaida (JBD) BMS: [AppStore Link](https://itunes.apple
 With Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS you can build simple Li-Ion or LiFePo4 battery packs. For camping, car, solar or e-bikes (see links below - my projects).
 
 Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS can be extended with an bluetooth adapter. It makes possible to:
-* NEW: Calibrate charging, discharging and idle current
-* NEW: change BMS capacity setting
+* NEW: Enable and configure Balancer over the App (Config section)
+* Calibrate charging, discharging and idle current
+* change BMS capacity setting
 * switch the battery on/off
 * monitor temperature
 * monitor battery voltage
