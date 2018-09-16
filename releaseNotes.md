@@ -7,7 +7,7 @@
 * Config screen: balancer cell delta voltage setting (balancer tries to balance until delta is below this value)
 * Config screen: Functional Configuration swiitches for: Switch, Scrl, Led EN, Led Num. See Xiaoxiang PC software for detailed description
 * Config screen: Improved read/write EEPROM. Now, if data packed is not received the read/write will be re-tried for 5 times 
-* Config screen: Keybord hides automatically if tapped outside edit box
+* Config screen: Keyboard hides automatically if tapped outside edit box
 
 
 ## v1.0.9 - 2018.07.06
