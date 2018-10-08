@@ -1,5 +1,8 @@
 # Release Notes
 
+## v.1.0.11 - 2018.10.xx
+* BMS Screen - max voltage of cell was not visible on smaller screens (iphone5s). fixed.
+
 ## v1.0.10 - 2018.09.16
 * Config screen: option to enable/disable balancer
 * Config screen: option to enable/disable balancer only while charging
