@@ -1,6 +1,7 @@
 # Release Notes
 
 ## v.1.0.11 - 2018.10.xx
+* WatchOS support - now you can check the most important data over the apple watch
 * BMS Screen - max voltage of cell was not visible on smaller screens (iphone5s). fixed.
 
 ## v1.0.10 - 2018.09.16
