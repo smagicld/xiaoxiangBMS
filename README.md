@@ -9,11 +9,13 @@
 
 # Xiaoxiang BMS / JBD-SP15S001 jiabaida BMS
 
-iOS app for Xiaoxiang / jiabaida (JBD) BMS: [AppStore Link](https://itunes.apple.com/us/app/xiaoxiang-bms/id1375405426?mt=8&ign-mpt=uo%3D4)
+iOS and Apple Watch App for Xiaoxiang / jiabaida (JBD) BMS: [AppStore Link](https://itunes.apple.com/us/app/xiaoxiang-bms/id1375405426?mt=8&ign-mpt=uo%3D4)
 
 With Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS you can build simple Li-Ion or LiFePo4 battery packs. For camping, car, solar or e-bikes (see links below - my projects).
 
 Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS can be extended with an bluetooth adapter. It makes possible to:
+* NEW: shows basic data on Apple Watch
+* NEW: simple logging of max voltage, current and power
 * NEW: Enable and configure Balancer over the App (Config section)
 * Calibrate charging, discharging and idle current
 * change BMS capacity setting
