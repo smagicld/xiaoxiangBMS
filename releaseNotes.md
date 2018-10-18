@@ -1,11 +1,16 @@
 # Release Notes
 
-## v.1.0.11 - 2018.10.xx
+## v1.1.0 -
+* Voltage Calibration
+
+
+## v1.0.11 - 2018.10.15
 * WatchOS support - now you can check the most important data on your apple watch
 * BMS Screen - max voltage of cell was not visible on smaller screens (iphone5s). fixed.
 * BMS Screen - added session logging like max/min voltage, max power (discharge), max charging current and max discharging current
 * BMS Screen - fixed disconnection bug when received unknown/not implemented BMS command.
 * General - as long the App is connected to BMS, it will stay in backgroud (iOS). This is for future release to do data logging.
+
 
 ## v1.0.10 - 2018.09.16
 * Config screen: option to enable/disable balancer
