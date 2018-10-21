@@ -1,8 +1,9 @@
 # Release Notes
 
 ## v1.1.0 -
-* Voltage Calibration
-
+* Config Screen: New config screen for cell voltage calibration
+* Connection Screen: Bluetooth devices list sorted by name
+* Info Screen: InApp purchases restore
 
 ## v1.0.11 - 2018.10.15
 * WatchOS support - now you can check the most important data on your apple watch
