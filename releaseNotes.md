@@ -1,16 +1,25 @@
 # Release Notes
 
-## v1.1.0 -
+
+## v1.1.1 - 
+* Notification: single cell undervoltage, SOC, BMS undervoltage, lost connection to BMS, iPhone App was terminated
+* Config Screen: settings to enable and fine tuning for notifications 
+
+
+## v1.1.0 - 2018.11.03
 * Config Screen: New config screen for cell voltage calibration
+* BMS Screen: New section with BMS information like manufacturing date, name and protection counters (how many times protection xyz was activated)
 * Connection Screen: Bluetooth devices list sorted by name
 * Info Screen: InApp purchases restore
+* InApp purchase: writing to BMS is now Pro function. for next 2 months it is for free, so everyone who bought the app before can get this functionality.
+
 
 ## v1.0.11 - 2018.10.15
-* WatchOS support - now you can check the most important data on your apple watch
-* BMS Screen - max voltage of cell was not visible on smaller screens (iphone5s). fixed.
-* BMS Screen - added session logging like max/min voltage, max power (discharge), max charging current and max discharging current
-* BMS Screen - fixed disconnection bug when received unknown/not implemented BMS command.
-* General - as long the App is connected to BMS, it will stay in backgroud (iOS). This is for future release to do data logging.
+* WatchOS support: now you can check the most important data on your apple watch
+* BMS Screen: max voltage of cell was not visible on smaller screens (iphone5s). fixed.
+* BMS Screen: added session logging like max/min voltage, max power (discharge), max charging current and max discharging current
+* BMS Screen: fixed disconnection bug when received unknown/not implemented BMS command.
+* General: as long the App is connected to BMS, it will stay in background (iOS). This is for future release to do data logging.
 
 
 ## v1.0.10 - 2018.09.16
@@ -25,7 +34,7 @@
 
 ## v1.0.9 - 2018.07.06
 * Config screen: all capacity parameters now available
-* Config screen: progress bar while reading/writin eeprom
+* Config screen: progress bar while reading/writing eeprom
 
 
 ## v1.0.8 - 2018.07.01
