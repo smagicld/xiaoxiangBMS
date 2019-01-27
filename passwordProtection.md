@@ -17,13 +17,22 @@ The solution will provide two PINs (alphanumeric)
 - PIN BMS access. If set, you need to provide PIN for reading the data. It is possible to "remember" the PIN so you do not have to re-enter it each time the BMS is connected.
 - PIN for BMS configuration. If set, whenever you go to Config screen, you have to provide correct pin.
 
-
-
 ## Setting PIN
 
 To set the PIN, connect to the BMS and go to Config -> BMS Config. Scroll down to BMS Name / PIN Section. Do not forget to press "Write EEPROM" at the end!
 
+![Pin Setting](images/iosScreenshots/BMS_setPIN.png "Setting PIN")
+![Pin commit](images/iosScreenshots/BMS_writeEEPROMButton.png "Commit changes")
 
+## Entering PIN
+
+You will be asked automatically for Pin when:
+- accessing BMS and PIN1 is set
+- accessing BMS Config screen when PIN2 is set
+
+Exception: You have set "Remember PIN on this device"
+
+![Pin Enter](images/iosScreenshots/BMS_enterPIN.png "Entering PIN")
 
 ## PIN Reset / Recover
 The PIN codes are written in plain text in the BMS name field. So if you do not remember them, you can connect to the BMS with PC App to get them or reset by writing "NONAME" into the name field.
