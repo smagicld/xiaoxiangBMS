@@ -1,10 +1,16 @@
 # Release Notes
 
 
-## v1.1.1 - 
+## v1.1.x - 
 * Notification: single cell undervoltage, SOC, BMS undervoltage, lost connection to BMS, iPhone App was terminated
 * Config Screen: settings to enable and fine tuning for notifications 
 
+## v1.1.1 - 2019.01.28
+* Config Screen: ability to change the BMS Name (on the hardware, not iOS alias or bluetooth module)
+* Config Screen: ability to set PIN1 or PIN2 for protection
+* BMS Read protection (PIN1 Code)
+* BMS Config protection (PIN2 Code)
+To understand PIN limitations please read: https://github.com/smagicld/xiaoxiangBMS/blob/master/passwordProtection.md
 
 ## v1.1.0 - 2018.11.03
 * Config Screen: New config screen for cell voltage calibration
