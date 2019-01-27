@@ -21,6 +21,8 @@ The solution will provide two PINs (alphanumeric)
 
 To set the PIN, connect to the BMS and go to Config -> BMS Config. Scroll down to BMS Name / PIN Section. Do not forget to press "Write EEPROM" at the end!
 
+NOTE: Setting PIN will overwrite your BMS Name set by manufacturer.
+
 ![Pin Setting](images/iosScreenshots/BMS_setPIN.png "Setting PIN")
 ![Pin commit](images/iosScreenshots/BMS_writeEEPROMButton.png "Commit changes")
 
