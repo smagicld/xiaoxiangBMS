@@ -14,10 +14,11 @@ iOS and Apple Watch App for Xiaoxiang / jiabaida (JBD) BMS: [AppStore Link](http
 With Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS you can build simple Li-Ion or LiFePo4 battery packs. For camping, car, solar or e-bikes (see links below - my projects).
 
 Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS can be extended with an bluetooth adapter. It makes possible to:
-* NEW: shows basic data on Apple Watch
-* NEW: simple logging of max voltage, current and power
-* NEW: Enable and configure Balancer over the App (Config section)
-* Calibrate charging, discharging and idle current
+* NEW: access with PIN code to BMS and config section (only iOS)
+* show basic data on Apple Watch
+* simple logging of max voltage, current and power
+* enable and configure Balancer over the App (Config section)
+* calibrate charging, discharging and idle current
 * change BMS capacity setting
 * switch the battery on/off
 * monitor temperature
