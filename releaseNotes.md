@@ -12,6 +12,9 @@
 * BMS Config protection (PIN2 Code)
 To understand PIN limitations please read: https://github.com/smagicld/xiaoxiangBMS/blob/master/passwordProtection.md
 
+* BugFix: fixed crash for BMS without temp sensors
+
+
 ## v1.1.0 - 2018.11.03
 * Config Screen: New config screen for cell voltage calibration
 * BMS Screen: New section with BMS information like manufacturing date, name and protection counters (how many times protection xyz was activated)
