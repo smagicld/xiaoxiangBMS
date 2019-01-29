@@ -10,9 +10,9 @@
 * Config Screen: ability to set PIN1 or PIN2 for protection
 * BMS Read protection (PIN1 Code)
 * BMS Config protection (PIN2 Code)
-To understand PIN limitations please read: https://github.com/smagicld/xiaoxiangBMS/blob/master/passwordProtection.md
-
 * BugFix: fixed crash for BMS without temp sensors
+
+To understand PIN limitations please read: https://github.com/smagicld/xiaoxiangBMS/blob/master/passwordProtection.md
 
 
 ## v1.1.0 - 2018.11.03
