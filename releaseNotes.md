@@ -5,6 +5,20 @@
 * Notification: single cell undervoltage, SOC, BMS undervoltage, lost connection to BMS, iPhone App was terminated
 * Config Screen: settings to enable and fine tuning for notifications 
 
+
+## v1.1.2 - 2019.05.15
+* Config Screen: new fields for protection configuration
+    * Cell over voltage trigger, Cell over voltage release, protection delay
+    * Cell under voltage trigger, Cell under voltage release, protection delay
+    * Pack (Battery) over voltage trigger, Cell over voltage release, protection delay
+    * Pack (Battery) under voltage trigger, Cell under voltage release, protection delay
+    * Charge over current, release delay, protection delay
+    * Discharge over current, release delay, protection delay
+
+* Config Screen: fixed writing Functional Configs: Switch, SCRL, LED_EN and LED_NUM
+
+
+
 ## v1.1.1 - 2019.01.28
 * Config Screen: ability to change the BMS Name (on the hardware, not iOS alias or bluetooth module)
 * Config Screen: ability to set PIN1 or PIN2 for protection
