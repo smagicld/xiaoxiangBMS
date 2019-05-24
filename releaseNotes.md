@@ -6,6 +6,19 @@
 * Config Screen: settings to enable and fine tuning for notifications 
 
 
+
+## v1.1.3 - 2019.06.03
+
+* Config Screen: configuration save / open support added
+
+* Config Screen: new fields for protection configuration
+    * Barcode field
+    * Cell over temperature trigger, Cell over temperature release, protection delay for charging
+    * Cell over temperature trigger, Cell over temperature release, protection delay for discharging
+    * Cell under temperature trigger, Cell under temperature release, protection delay for charging
+    * Cell under temperature trigger, Cell under temperature release, protection delay for discharging
+    
+
 ## v1.1.2 - 2019.05.15
 * Config Screen: new fields for protection configuration
     * Cell over voltage trigger, Cell over voltage release, protection delay
