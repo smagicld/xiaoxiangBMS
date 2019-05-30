@@ -7,14 +7,16 @@
 * [Where to buy](#Where-to-buy)
 * [Sample projects](#Sample-projects)
 
-# Xiaoxiang BMS / JBD-SP15S001 jiabaida BMS
+# Xiaoxiang BMS / JBD-SP15S001 / JBD-SP05S002 jiabaida BMS
 
 iOS and Apple Watch App for Xiaoxiang / jiabaida (JBD) BMS: [AppStore Link](https://itunes.apple.com/us/app/xiaoxiang-bms/id1375405426?mt=8&ign-mpt=uo%3D4)
 
 With Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS you can build simple Li-Ion or LiFePo4 battery packs. For camping, car, solar or e-bikes (see links below - my projects).
 
 Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS can be extended with an bluetooth adapter. It makes possible to:
-* NEW: access with PIN code to BMS and config section (only iOS)
+* NEW: Support for JBD-SP05S002 BMS
+* NEW: Saving / restoring BMS configs
+* access with PIN code to BMS and config section (only iOS)
 * show basic data on Apple Watch
 * simple logging of max voltage, current and power
 * enable and configure Balancer over the App (Config section)
@@ -28,9 +30,6 @@ Xiaoxiang Xiaoxiang / jiabaida (JBD) BMS can be extended with an bluetooth adapt
 * monitor charging and discharging current
 * monitor alarms
 
-In the V1 only reading of values is supported. If people will like the app, I'm ready to implement in V2 features like:
-- max / min measurements storage
-- charts
 
 Sample screenshots:
 
@@ -69,4 +68,11 @@ Before you order, make sure you choose the right cell number and battery technol
 # Sample projects
 Sample VoltBox (Battery Pack) with 1kW capacity, 24V and mppt solar charger. perfect for camping.
 [VoltBox Project link](http://www.deszynski.com/wp/camping-portable-1kw-24v-voltbox/)
+
+# !00% Supported BMS Pictures:
+JBD-SP15S001 (LiIon)
+
+JBD-SP05S002 (LiFePo4)
+
+
 
