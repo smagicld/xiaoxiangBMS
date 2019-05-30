@@ -9,6 +9,8 @@
 
 ## v1.1.3 - 2019.06.03
 
+* Support for JBD-SP05S002 BMS
+
 * Config Screen: configuration save / open support added
 
 * Config Screen: new fields for protection configuration
