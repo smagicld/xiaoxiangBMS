@@ -69,10 +69,11 @@ Before you order, make sure you choose the right cell number and battery technol
 Sample VoltBox (Battery Pack) with 1kW capacity, 24V and mppt solar charger. perfect for camping.
 [VoltBox Project link](http://www.deszynski.com/wp/camping-portable-1kw-24v-voltbox/)
 
-# !00% Supported BMS Pictures:
+# 100% Supported BMS's pictures:
 JBD-SP15S001 (LiIon)
+![JBD-SP15S001 (LiIon)](/images/JBD-SP15S001.png)
 
 JBD-SP05S002 (LiFePo4)
-
+![JBD-SP05S002 (LiIon)](/images/JBD-SP05S002.png)
 
 
