@@ -1,11 +1,10 @@
 # Release Notes
 
 
-## v1.1.x - 
-* Notification: single cell undervoltage, SOC, BMS undervoltage, lost connection to BMS, iPhone App was terminated
-* Config Screen: settings to enable and fine tuning for notifications 
 
+## v1.1.4 - 2019.06.07
 
+* Config screen: extended Current Charge / Discharge field to 6 digits. Label fix.
 
 ## v1.1.3 - 2019.06.03
 
