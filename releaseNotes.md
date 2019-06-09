@@ -1,6 +1,9 @@
 # Release Notes
 
 
+## v1.1.5 - 2019.06.xx
+
+* Bug Fix: Demo Device config section available without in-App purchase
 
 ## v1.1.4 - 2019.06.07
 
