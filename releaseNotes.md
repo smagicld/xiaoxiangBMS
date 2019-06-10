@@ -1,9 +1,10 @@
 # Release Notes
 
 
-## v1.1.5 - 2019.06.xx
+## v1.1.5 - 2019.06.12
 
 * Bug Fix: Demo Device config section available without in-App purchase
+* code cleanup
 
 ## v1.1.4 - 2019.06.07
 
