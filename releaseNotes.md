@@ -1,5 +1,10 @@
 # Release Notes
 
+## v1.1.6 - 2019.0x.xx
+
+* iPad support. The screen UI is now scaled to iPad
+
+
 
 ## v1.1.5 - 2019.06.12
 
