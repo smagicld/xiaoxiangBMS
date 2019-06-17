@@ -1,9 +1,14 @@
 # Release Notes
 
-## v1.1.6 - 2019.0x.xx
+
+## v1.1.7 - 2019.06.18
+
+* Maintenance update. Fix App crash on checksum calculation for specific BMS type.
+
+
+## v1.1.6 - 2019.06.16
 
 * iPad support. The screen UI is now scaled to iPad
-
 
 
 ## v1.1.5 - 2019.06.12
