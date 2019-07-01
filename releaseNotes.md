@@ -6,6 +6,7 @@
 * Bug Fix: Voltage Calibration - missing Write button. is now back!
 * Bug Fix: Fixed re-purchasing Problem
 * Config Screen: Setting for temperature in Celsius or Fahrenheit
+* Config screen: extended Designed Capacity and Cycle Capacity fields to 6 digits
 
 
 ## v1.1.7 - 2019.06.18
