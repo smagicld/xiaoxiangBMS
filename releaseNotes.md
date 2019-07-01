@@ -1,6 +1,13 @@
 # Release Notes
 
 
+## v1.1.8 - 2019.07.03
+
+* Bug Fix: Voltage Calibration - missing Write button. is now back!
+* Bug Fix: Fixed re-purchasing Problem
+* Config Screen: Setting for temperature in Celsius or Fahrenheit
+
+
 ## v1.1.7 - 2019.06.18
 
 * Maintenance update. Fix App crash on checksum calculation for specific BMS type.
