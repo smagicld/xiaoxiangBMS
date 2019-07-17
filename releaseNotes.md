@@ -1,5 +1,17 @@
 # Release Notes
 
+## v1.2.0 - 2019.07.20
+
+Notifications support on iPhone an Apple Watch.
+It is now possible to define notifications for:
+- Battery SOC
+- Battery Voltage
+- Charging / Discharging
+- Cell Voltage
+- Temperature
+
+* Config Screen: New Tab Notifications
+
 
 ## v1.1.8 - 2019.07.03
 
