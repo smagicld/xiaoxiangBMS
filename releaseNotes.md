@@ -1,5 +1,16 @@
 # Release Notes
 
+
+## v1.2.1 - 2019.xx.xx
+
+* New notification types:
+- BMS lost connection
+- BMS re-connected
+- Cell delta voltage
+
+* Landscape mode on iPhone
+
+
 ## v1.2.0 - 2019.07.20
 
 Notifications support on iPhone an Apple Watch.
