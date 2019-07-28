@@ -1,28 +1,24 @@
 # Release Notes
 
 
-## v1.2.1 - 2019.xx.xx
+## v1.2.1 - 2019.07.31
 
 * New notification types:
-- BMS lost connection
-- BMS re-connected
-- Cell delta voltage
-
+    * BMS lost connection
+    * BMS re-connected
+    * Cell delta voltage
 * Landscape mode on iPhone
 
 
 ## v1.2.0 - 2019.07.20
 
-Notifications support on iPhone an Apple Watch.
-It is now possible to define notifications for:
-- Battery SOC
-- Battery Voltage
-- Charging / Discharging
-- Cell Voltage
-- Temperature
-
+* Notifications support on iPhone an Apple Watch. It is now possible to define notifications for:
+    * Battery SOC
+    * Battery Voltage
+    * Charging / Discharging
+    * Cell Voltage
+    * Temperature
 * Config Screen: New Tab Notifications
-
 
 ## v1.1.8 - 2019.07.03
 
