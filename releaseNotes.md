@@ -1,7 +1,9 @@
 # Release Notes
 
-## v1.2.2 - 2019.08.xx
+## v1.2.3 - 2019.08.xx
+* New language support: German
 
+## v1.2.2 - 2019.08.07
 * New language support: Polish
 * notification popups disabled when configuring BMS
 * UI optimisations
