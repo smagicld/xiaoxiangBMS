@@ -1,10 +1,12 @@
 # Release Notes
 
-## v1.2.3 - 2019.08.xx
+## v1.2.3 - 2019.08.28
 * New language support: German
 * File Sharing: you can backup your BMS configurations on Desktop PC over iTunes File Sharing
 * BMS Screen:
     * Battery Cycle Count is now displayed (number of full discharge/charge cycles)
+* BMS List Screen:
+    * Show BMS Mac address instead of iOS random generated bluetooth UUID
 
 ## v1.2.2 - 2019.08.07
 * New language support: Polish
