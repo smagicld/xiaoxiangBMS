@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.2.4 - 2019.09.13
+* Dark mode support
+
 ## v1.2.3 - 2019.08.28
 * New language support: German
 * File Sharing: you can backup your BMS configurations on Desktop PC over iTunes File Sharing
