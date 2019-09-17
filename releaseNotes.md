@@ -1,5 +1,11 @@
 # Release Notes
 
+## v1.2.6 - 2019.09.18
+* build with Xcode11 GM seed 2
+
+## v1.2.5 - 2019.09.15
+* build with XCode11 GM seed
+
 ## v1.2.4 - 2019.09.13
 * Dark mode support
 
