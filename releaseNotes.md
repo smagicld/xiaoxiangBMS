@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.2.7 - 2019.10.xx
+* New language support: Chinese, French, Spanish
+
 ## v1.2.6 - 2019.09.18
 * build with Xcode11 GM seed 2
 
