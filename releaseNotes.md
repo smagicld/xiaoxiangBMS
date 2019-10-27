@@ -1,6 +1,15 @@
 # Release Notes
 
-## v1.2.7 - 2019.10.xx
+## v2.0.0 - 2019.xx.xx
+This is the new v2 Version of XiaoXiang BMS rewritten with SwiftUI. available for iOS(13+), iPad and MacOS (Catalina+)
+
+* multiple BMS Battery View on one screen
+
+
+## v1.2.8 - 2019.10.30
+* iOS13 BugFixes
+
+## v1.2.7 - 2019.10.10
 * New language support: Chinese, French, Spanish
 
 ## v1.2.6 - 2019.09.18
