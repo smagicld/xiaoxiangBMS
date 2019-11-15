@@ -5,6 +5,10 @@ This is the new v2 Version of XiaoXiang BMS rewritten with SwiftUI. available fo
 
 * multiple BMS Battery View on one screen
 
+
+## v1.2.10 - 2019.11.17
+* Fixed in-App store crash on latest iOS 13 version
+
 ## v1.2.9 - 2019.11.14
 * Fix DarkMode for PIN Screen
 * Fix Chinese translation
