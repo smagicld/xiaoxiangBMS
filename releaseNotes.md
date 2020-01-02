@@ -5,6 +5,9 @@ This is the new v2 Version of XiaoXiang BMS rewritten with SwiftUI. available fo
 
 * multiple BMS Battery View on one screen
 
+## v1.2.11 - 2020.01.05
+* Cell delta voltage notification shows min/max cell index and voltage
+* BMS Screen: show index of min/max cell voltage
 
 ## v1.2.10 - 2019.11.17
 * Fixed in-App store crash on latest iOS 13 version
