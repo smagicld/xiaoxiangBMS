@@ -5,6 +5,9 @@ This is the new v2 Version of XiaoXiang BMS rewritten with SwiftUI. available fo
 
 * multiple BMS Battery View on one screen
 
+## v1.2.12 - 2020.02.16
+* BMS Config screen: minimal battery (pack) voltage is now 1V (before 10V)
+
 ## v1.2.11 - 2020.01.05
 * Cell delta voltage notification shows min/max cell index and voltage
 * BMS Screen: show index of min/max cell voltage
