@@ -1,9 +1,12 @@
 # Release Notes
 
-## v2.0.0 - 2019.xx.xx
+## v2.0.0 - 2020.xx.xx
 This is the new v2 Version of XiaoXiang BMS rewritten with SwiftUI. available for iOS(13+), iPad and MacOS (Catalina+)
 
 * multiple BMS Battery View on one screen
+
+## v1.2.13 - 2020.04.14
+* BMS Config screen: added support for NTC configuration
 
 ## v1.2.12 - 2020.02.16
 * BMS Config screen: minimal battery (pack) voltage is now 1V (before 10V)
