@@ -5,8 +5,11 @@ This is the new v2 Version of XiaoXiang BMS rewritten with SwiftUI. available fo
 
 * multiple BMS Battery View on one screen
 
+## v1.2.15 - 2020.06.06
+* Added support for BMS with Bluetooth V5 (2020)
+
 ## v1.2.14 - 2020.04.30
-* Fix for new BMS models (app crash on BMS screen)
+* Fix for crash with newer BMS models
 
 ## v1.2.13 - 2020.04.14
 * BMS Config screen: added support for NTC configuration
