@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.2.19 - 2020.10.05
+* added support for BMS with HC01 bluetooth dongle
+* Notification screen: fixed decimal truncation with locales using comma
+
 ## v1.2.17 - 2020.09.02
 Fixed connection problem (stuck on "waiting for data") for BMS with empty name.
 
