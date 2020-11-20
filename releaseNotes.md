@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.2.20 - 2020.11.20
+Increased max cell to 32 (config section)
+
 ## v1.2.19 - 2020.10.05
 * added support for BMS with HC01 bluetooth dongle
 * Notification screen: fixed decimal truncation with locales using comma
