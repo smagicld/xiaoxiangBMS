@@ -7,7 +7,17 @@
 * [Where to buy](#Where-to-buy)
 * [Sample projects](#Sample-projects)
 
-# Xiaoxiang BMS / JBD-SP15S001 / JBD-SP05S002 jiabaida BMS
+# Xiaoxiang BMS / JBD-SP15S001 / JBD-SP05S002 jiabaida BMS / Ant BMS
+
+UPDATE 2020.12.20:
+- AntBMS was added into the v2 (not yet released) of XiaoXiang BMS App.
+- Widgets support
+
+![Ant BMS](/images/AntBMS.jpeg)
+
+![Ant BMS detail screen](/images/AntBMS-details.jpeg)
+
+![Multiple BMS view](/images/BMSToolV2.jpeg)
 
 iOS and Apple Watch App for Xiaoxiang / jiabaida (JBD) BMS: [AppStore Link](https://itunes.apple.com/us/app/xiaoxiang-bms/id1375405426?mt=8&ign-mpt=uo%3D4)
 
