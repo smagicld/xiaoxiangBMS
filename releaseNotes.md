@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.2.22 - 2020.03.27
+Fixed invisible NTC toggles (config section) on older devices (< iOS 13)
+
 ## v1.2.20 - 2020.11.20
 Increased max cell to 32 (config section)
 
