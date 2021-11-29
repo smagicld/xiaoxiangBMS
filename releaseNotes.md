@@ -1,8 +1,8 @@
 # Release Notes
 
 ## v1.2.25
-* BMS Settings Screen: added option to unlock BMS if settings area is protected with hardware pin when entering settings area.
-NOTE: Setting hardware pin and changing bluetooth dongle name is under development, will come with next release!
+* BMS Settings Screen: from BMS Firmware version 20 you can protect your settings on BMS side. with this version we added option to unlock BMS if settings area is protected with hardware pin.
+NOTE: Setting hardware pin and changing bluetooth dongle name is under development and will come with next release!
 * BMS Screen: show firmware version
 
 ## v1.2.22 - 2020.03.27
