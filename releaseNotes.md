@@ -1,8 +1,9 @@
 # Release Notes
 
 ## v1.2.25
-Added option to unlock BMS if settings area is protected with hardware pin when entering settings area.
+* BMS Settings Screen: added option to unlock BMS if settings area is protected with hardware pin when entering settings area.
 NOTE: Setting hardware pin and changing bluetooth dongle name is under development, will come with next release!
+* BMS Screen: show firmware version
 
 ## v1.2.22 - 2020.03.27
 Fixed invisible NTC toggles (config section) on older devices (< iOS 13)
