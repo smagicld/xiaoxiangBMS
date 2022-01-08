@@ -1,8 +1,9 @@
 # Release Notes
 
 ## v1.2.27
-Added option to set hardware bluetooth name. Special symbols are supported too! (🚀 my bms name) 
-Option can be found in BMS Settings Screen (first tab)
+Added option to set hardware bluetooth name. Special symbols are supported too!
+Option can be found in BMS Settings Screen (first tab).
+NOTE: tested with original JBD / XiaoXiang BMS.
 
 ## v1.2.25
 * BMS Settings Screen: from BMS Firmware version 20 you can protect your settings on BMS side. with this version we added option to unlock BMS if settings area is protected with hardware pin.
