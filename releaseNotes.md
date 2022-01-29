@@ -1,5 +1,10 @@
 # Release Notes
 
+## v1.2.28
+Hardware PIN protection!
+* BMS Settings Screen: option to set hardware PIN (only on newer BMS / Firmware)
+* BMS Screen: Toggle buttons under the arrows. Now you can switch on/off input/output MOS independent.
+
 ## v1.2.27
 Added option to set hardware bluetooth name. Special symbols are supported too!
 Option can be found in BMS Settings Screen (first tab).
