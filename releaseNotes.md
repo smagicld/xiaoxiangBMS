@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.2.32
+Fixed notification configuration saving (last entry was not saved)
+
 ## v1.2.28
 Hardware PIN protection!
 * BMS Settings Screen: option to set hardware PIN (only on newer BMS / Firmware)
