@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.2.33
+BMS Settings Screen: extended total battery voltage to 6 digit (36s batteries)
+
 ## v1.2.32
 Fixed notification configuration saving (last entry was not saved)
 
