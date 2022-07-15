@@ -1,8 +1,8 @@
 # Release Notes
 
 ## v1.2.35
-BMS Screen: now you can set custom name for temp sensors
-BMS Settings Screen: latest FW version does not support PIN anymore. You will be not asked anymore to enter PIN on this FW version.
+* BMS Screen: now you can set custom name for temp sensors
+* BMS Settings Screen: latest FW version does not support PIN anymore. You will be not asked anymore to enter PIN on this FW version.
 
 ## v1.2.33
 BMS Settings Screen: extended total battery voltage to 6 digit (36s batteries)
