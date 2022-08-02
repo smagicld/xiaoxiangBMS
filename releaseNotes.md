@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.2.36
+* BMS Settings Screen: added fields for preciser SOC setting (10%, 30%, 50%, 70%, 90%, 100%).
+NOTE: works only on BMS firmware above version 21 and some 20.
+
 ## v1.2.35
 * BMS Screen: now you can set custom name for temp sensors
 * BMS Settings Screen: latest FW version does not support PIN anymore. You will be not asked anymore to enter PIN on this FW version.
