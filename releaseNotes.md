@@ -1,4 +1,11 @@
 # Release Notes
+## v1.2.37
+* added support for latest JBD BMS with FW > 25
+* only for new JBD BMS:
+  * Button to start balancer manually
+  * Button to reset alarms
+  * Button to reset measured capacity
+  * fixed Input/Output port on/off functionality (new commands)
 
 ## v1.2.36
 * BMS Settings Screen: added fields for preciser SOC setting (10%, 30%, 50%, 70%, 90%, 100%).
