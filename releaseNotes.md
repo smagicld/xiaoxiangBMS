@@ -1,7 +1,8 @@
 # Release Notes
+
 ## v1.2.37
-* added support for latest JBD BMS with FW > 25
-* only for new JBD BMS:
+* added support for latest JBD BMS with FW > 25 (JBD-AP21S001)
+* only for new JBD BMS (buttons are visible if connected to supported BMS):
   * Button to start balancer manually
   * Button to reset alarms
   * Button to reset measured capacity
