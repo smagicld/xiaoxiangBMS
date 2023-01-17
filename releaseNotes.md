@@ -1,7 +1,7 @@
 # Release Notes
 
 ## v1.3.0
-* BMS Settings Screen: fixed bug keeping asking for hardware pin on BMS Firmware versions not supporting hardware pin
+* Introducing BMS Password reset
 
 ## v1.2.37
 * macOS version available (ARM Machines)
