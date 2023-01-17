@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.3.0
+* BMS Settings Screen: fixed bug keeping asking for hardware pin on BMS Firmware versions not supporting hardware pin
+
 ## v1.2.37
 * macOS version available (ARM Machines)
 * added support for latest JBD BMS with FW > 25 (JBD-AP21S001)
