@@ -1,7 +1,10 @@
 # Release Notes
 
-## v1.3.1 (not released yet)
+## v1.3.2 (not released yet)
 * Introducing BMS Password reset
+
+## v1.3.1
+* BugFix where cell voltages were not displayed for some BMS FW
 
 ## v1.3.0
 * Fixed bug where the HW PIN is not stored locally / must be entered each time to enter config area or switch MOSFET Ports On/off.
