@@ -2,6 +2,7 @@
 
 ## v1.3.2 (not released yet)
 * Introducing BMS Password reset
+* BMS Settings Screen: Discharge Capacity field was expecting always dot as decimal separator. now based on locale comma separator is accepted. 
 
 ## v1.3.1
 * BugFix where cell voltages were not displayed for some BMS FW
