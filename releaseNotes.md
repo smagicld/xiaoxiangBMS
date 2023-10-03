@@ -1,7 +1,7 @@
 # Release Notes
 
-## v1.3.2 (not released yet)
-* Introducing BMS Password reset
+## v1.3.2
+* Fixed iOS17 Bug where inApp purchase must be restored each time the App was killed by OS.
 * BMS Settings Screen: Discharge Capacity field was expecting always dot as decimal separator. now based on locale comma separator is accepted. 
 
 ## v1.3.1
