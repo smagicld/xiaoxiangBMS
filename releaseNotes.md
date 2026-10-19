@@ -1,5 +1,16 @@
 # Release Notes
 
+## v1.3.6
+* Runs again on iOS 15 (iPhone 6s, 6s Plus, 7, 7 Plus, SE 1st generation).
+* New Apple Watch app: charge ring, voltage, current and power on the first page, cell voltages
+  as a chart with min, max, delta and balancing on the second, capacity, all temperature
+  sensors (with their names from the iPhone), ports and alarms on the third.
+* The watch shows the last values with their age when the iPhone or the BMS is not connected.
+* Watch face complications: charge ring, charge with voltage and power, inline text.
+* Battery: time until full while charging and until empty while discharging, estimated from
+  the present current (on the iPhone and on the Apple Watch).
+* Refreshed device list and battery screen, cell voltages still as the familiar bars.
+
 ## v1.3.2
 * Fixed iOS17 Bug where inApp purchase must be restored each time the App was killed by OS.
 * BMS Settings Screen: Discharge Capacity field was expecting always dot as decimal separator. now based on locale comma separator is accepted. 
