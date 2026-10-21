@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.4.1
+* maintenance release
+
 ## v1.4.0
 * Runs again on iOS 15 (iPhone 6s, 6s Plus, 7, 7 Plus, SE 1st generation).
 * New Apple Watch app: charge ring, voltage, current and power on the first page, cell voltages
