@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.4.2
+* maintenance release
+
 ## v1.4.1
 * maintenance release
 
