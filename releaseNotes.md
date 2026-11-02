@@ -1,5 +1,12 @@
 # Release Notes
 
+## v1.5.0
+* History of the battery: charge, power, voltage, temperatures and cells over an hour, a day, a week, a month or a year, energy charged and discharged per day, totals and equivalent full cycles, every cell on its own, export as CSV.
+* Home screen widgets and lock screen widgets: charge, power, voltage and the last 24 hours of a chosen battery, or all batteries.
+* Apple Watch: the cells page shows the connection status too.
+* Demo mode: the virtual battery changes smoothly like a real one.
+* Fixed a crash when the settings were tapped while the battery screen was still opening.
+
 ## v1.4.2
 * maintenance release
 
